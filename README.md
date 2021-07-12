@@ -39,7 +39,7 @@ That is all good and well, but we sometimes end up with huge quantity of small f
 
 ```sh
 nn_storage_quota
-echo "Inode usage for $(pwd)" ; for d in `find -maxdepth 1 -type d | cut -d\/ -f2 | grep -xv . | sort`; do c=$(find $d | wc -l) ; printf "$c\t\t- $d\n" ; done ; printf "Total: \t\t$(find $(pwd) | wc -l)\n" # This count the inodes
+echo "Inode usage for $(pwd)" ; for d in `find -maxdepth 1 -type d | cut -d\/ -f2 | grep -xv . | sort`; do c=$(find $d | wc -l) ; printf "$c\t\t- $d\n" ; done ; printf "Total: \t\t$(find $(pwd) | wc -l)\n" # This counts the inodes
 ```
 
 
