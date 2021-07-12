@@ -10,7 +10,7 @@ This session covers the essential of data management for a project on NeSI. It s
 
 * Always have your data in at least two places.
 * Never edit your raw data.
-* Use informative file names: `Filtered_data.txt`is meaningless on its own. `data_noMISSINGDATAremoved12lowqual.csv` is much better.
+* Use informative file names: `filtered_data.txt`is meaningless on its own. `data_noMISSINGDATAremoved12lowqual.csv` is much better.
 * Avoid proprietary formats
 * Have a readme file
 * Your methods are easily transportable, and should bring anyone from raw data to results. Put your efforts there, Try to see files as checkpoints, not at the center of your structure.
