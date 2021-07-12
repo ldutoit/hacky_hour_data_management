@@ -100,4 +100,4 @@ ls -lh  /nesi/nobackup/uooXXXXX/tmp_data/
 YES!
 
 
-Stillot enough space? Ask [support@nesi.org.nz](support@nesi.org.nz) first, if it is not enough, you can get data on the [high capacity storage (HCS)](https://www.otago.ac.nz/its/services/hosting/otago068353.html) of the uni too.
+Still not enough space? Ask [support@nesi.org.nz](support@nesi.org.nz) first, if it is not enough, you can get data on the [high capacity storage (HCS)](https://www.otago.ac.nz/its/services/hosting/otago068353.html) of the uni too.
